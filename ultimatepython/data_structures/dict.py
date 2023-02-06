@@ -5,7 +5,7 @@ structure.
 """
 
 # Module-level constants
-_GPA_MIN = 0.0
+_GPA_MIN = 0.0w
 _GPA_MAX = 4.0
 
 
